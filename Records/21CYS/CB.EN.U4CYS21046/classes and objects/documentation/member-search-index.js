@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SimpleClass","l":"graded(double)"},{"p":"<Unnamed>","c":"SimpleClass","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SimpleClass","l":"PorF(double)"},{"p":"<Unnamed>","c":"SimpleClass","l":"publishResult()"},{"p":"<Unnamed>","c":"SimpleClass","l":"SimpleClass()","u":"%3Cinit%3E()"}];updateSearchResults();
