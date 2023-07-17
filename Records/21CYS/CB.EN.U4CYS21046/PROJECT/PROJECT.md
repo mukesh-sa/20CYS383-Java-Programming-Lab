@@ -3,6 +3,14 @@
  
 ## E - Voting
 
+### Module Split-up
+|   Name    |        Topic          |
+|-----------|-----------------------|
+| Mukesh SA | File Management       |   
+| Mukesh SA | UI                    |
+| Mukesh SA | Regex Validation      |
+
+
 ### Project Description
 
 <p text-align: justify;>The E-Voting System is a Java-based electronic voting application that offers a visually intuitive graphical user interface (GUI). It facilitates voter registration, candidate registration, voting, and the display of voting outcomes. This system aims to enhance the efficiency of the voting procedure while guaranteeing the security and precision of the vote tabulation.</p>
